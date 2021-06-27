@@ -1,0 +1,9 @@
+
+js set css
+https://www.w3schools.com/js/js_htmldom_css.asp
+
+files input add base64
+https://stackoverflow.com/questions/33297858/input-type-file-set-base64-image-data
+
+html get canvas image
+https://stackoverflow.com/questions/10257781/can-i-get-image-from-canvas-element-and-use-it-in-img-src-tag/10257830
